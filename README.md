@@ -9,21 +9,23 @@
 
 
 ## 🚀 Características
-- Detección precisa de la señas con Mediapipe Holistic
+- Detección precisa de las señas con Mediapipe Holistic
 - Lectura auditiva de la palabra formada
-- Interfaz para detectar la letra con mayor probabilidad de ser detectada
+- Interfaz amigable para visualizar la letra con mayor probabilidad de ser detectada
 
 
 ## 🛠️ Tech Stack (Tecnologías utilizadas)
+### Librearias y Herramientas Escenciales
 - OpenCV
-- TensorFlow y Keras
+- TensorFlow / Keras
 - MediaPipe
+- Scikit-learn
 - Jupyter Notebooks
 
 
 ### Otras Herramientas
 - Google Colab
-- Anaconda: Ambiente virtual para librerias de Python 
+- **Anaconda:** Ambiente virtual para librerias de Python 
 - GitHub
 - VS Code
 

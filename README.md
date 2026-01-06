@@ -1,5 +1,5 @@
-# 🛍️ Modelo de Detección del Lenguaje de Señas Mexicano (LSM) 
-## Aplicación de visión por computadora para la deteccion de señas del alfabeto LSM.
+# Modelo de Detección del Lenguaje de Señas Mexicano (LSM) 
+## Aplicación de Visión Artificial para la detección de las letras del Lenguaje de Señas Mexicano (LSM)
 ---
 
 ## 📸 Vista Previa
@@ -10,18 +10,17 @@
 ## 🚀 Características
 
 
----
 
 ## 🛠️ Tech Stack (Tecnologías utilizadas)
-
-
-
-
+- OpenCV
+- TensorFlow y Keras
+- MediaPipe
 
 
 ### Otras Herramientas
-- **Thunder Client**: Pruebas del funcionamiento correcto de los HTTPS Request del servidor.
-- Git & GitHub
+- Google Colab
+- Anaconda: Ambiente virtual para librerias de Python 
+- GitHub
 - VS Code
 
 

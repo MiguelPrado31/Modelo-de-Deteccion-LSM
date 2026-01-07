@@ -1,5 +1,5 @@
 # Video Intérprete Para Personas con Discapacidad Auditiva
-### Aplicación de Visión Artificial para la detección de las letras del Lenguaje de Señas Mexicano (LSM)
+### Aplicación de Visión Artificial para la detección de letras del alfabeto del Lenguaje de Señas Mexicano (LSM).
 ---
 
 ## 📸 Vista Previa

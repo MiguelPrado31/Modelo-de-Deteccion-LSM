@@ -3,7 +3,7 @@
 ---
 
 ## 📸 Vista Previa
-### *- Palabra Formada:*
+### *- Detección de la letra 'A' para formar la palabra 'Toma':*
 ![WhatsApp_Image_2026](https://github.com/user-attachments/assets/a976c86d-3d28-4511-a97f-e16318c53346)
 
 ### *- Punto Claves de la Mano con MediaPipe:*
@@ -18,7 +18,7 @@
 
 
 ## 🛠️ Tech Stack (Tecnologías utilizadas)
-### Librearias y Herramientas Escenciales
+### Librearias y Herramientas Escenciales:
 - OpenCV
 - TensorFlow / Keras
 - MediaPipe
@@ -26,7 +26,7 @@
 - Jupyter Notebooks
 
 
-### Otras Herramientas
+### Otras Herramientas:
 - Google Colab
 - **Anaconda:** Ambiente virtual para librerias de Python 
 - GitHub

@@ -2,7 +2,7 @@
 ### Aplicación de Visión Artificial para la detección de letras del alfabeto del Lenguaje de Señas Mexicano (LSM).
 ---
 
-### Punto Claves de la Mano con MediaPipe:
+### Puntos clave de la mano con MediaPipe:
 <img width="1058" height="369" alt="image" src="https://github.com/user-attachments/assets/c8a244ea-d8ed-4ea3-bc81-0842288e93c3" />
 
 
